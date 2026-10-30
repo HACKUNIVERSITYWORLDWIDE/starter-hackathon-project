@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hackathon Starter Project</h1>
+<h1 align="center">🚀 RutaUp</h1>
 <h3 align="center"><em>Your complete template for a winning hackathon submission — by Hack University</em></h3>
 
 ---
@@ -20,7 +20,7 @@ Welcome! This template gives you **everything judges expect in a submission**, a
 ## 🗺 Repository Map
 
 ```
-starter-hackathon-project/
+RutaUp/
 ├── README.md            ← your project's front page (this file — fill it in!)
 ├── devpost/             ← 🏆 how to submit on Devpost + write-up template
 ├── prototype/           ← ⚙️ how to document setup so judges can run your code
@@ -48,7 +48,7 @@ starter-hackathon-project/
 
 ---
 
-# 🏷 Project Name + Tagline
+# 🏷 RutaUp + Tagline
 
 **🧠 Why judges care:** it's the first thing they read. A name + one vivid line can make them *want* to scroll down.
 
